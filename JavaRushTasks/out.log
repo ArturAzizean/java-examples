@@ -9714,3 +9714,337 @@ java.util.concurrent.TimeoutException
 2018-12-15 09:19:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
 2018-12-15 09:20:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
 2018-12-15 09:20:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:20:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:21:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:21:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:21:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:22:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:22:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:22:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:23:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:23:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:23:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:24:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:24:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:24:38 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 09:24:38 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 09:24:40 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 09:24:40 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 09:24:40 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 09:24:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:24:44 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 09:24:45 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-15 09:24:58 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-15 09:24:59 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-15 09:25:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:25:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:26:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:26:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:27:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:27:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:28:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:28:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:29:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:29:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:30:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:30:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:31:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:31:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:32:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:32:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:33:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:33:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:34:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:34:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:35:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:35:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:36:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:36:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:37:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:37:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:38:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:38:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:39:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:39:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:40:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:40:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:41:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:41:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:42:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:42:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:43:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:43:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:44:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:44:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:45:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:45:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:46:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:46:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:47:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:47:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:48:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:48:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:49:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:49:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:50:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:50:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:51:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:51:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:52:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:52:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:53:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:53:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:54:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:54:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:55:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:55:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:56:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:56:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:57:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:57:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:58:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:58:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:59:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 09:59:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:00:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:00:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:01:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:01:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:02:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:02:43 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:03:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 10:03:27 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-15 10:03:34 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-15 10:03:34 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 10:03:35 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 10:48:47 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 10:48:48 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 11:09:57 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='InstallTest', methodName='null'}, XRefItem{className='String', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 12:21:50 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 12:21:50 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 12:22:16 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 12:22:17 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 13:03:54 ERROR ObjectNode.error(115) - null
+java.lang.AssertionError
+	at com.intellij.util.io.storage.RefCountingRecordsTable.decRefCount(RefCountingRecordsTable.java:62)
+	at com.intellij.util.io.storage.RefCountingStorage.releaseRecord(RefCountingStorage.java:220)
+	at com.intellij.openapi.vfs.newvfs.persistent.FSRecords.lambda$releaseContent$32(FSRecords.java:1423)
+	at com.intellij.openapi.vfs.newvfs.persistent.FSRecords.writeAndHandleErrors(FSRecords.java:951)
+	at com.intellij.openapi.vfs.newvfs.persistent.FSRecords.releaseContent(FSRecords.java:1423)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.releaseContent(PersistentFSImpl.java:671)
+	at com.intellij.history.core.StoredContent.release(StoredContent.java:100)
+	at com.intellij.history.core.ChangeList.lambda$purgeObsolete$0(ChangeList.java:177)
+	at com.intellij.history.core.ChangeListStorageImpl.purge(ChangeListStorageImpl.java:238)
+	at com.intellij.history.core.ChangeList.purgeObsolete(ChangeList.java:175)
+	at com.intellij.history.integration.LocalHistoryImpl.doDispose(LocalHistoryImpl.java:126)
+	at com.intellij.history.integration.LocalHistoryImpl.dispose(LocalHistoryImpl.java:114)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:126)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:151)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1038)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:800)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:770)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:759)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:755)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:722)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$3.windowClosing(IdeFrameImpl.java:275)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:722)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-15 13:03:54 ERROR ObjectNode.logErrorHeader(120) - IntelliJ IDEA 2018.2.4  Build #IC-182.4505.22
+2018-12-15 13:03:54 ERROR ObjectNode.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-12-15 13:03:54 ERROR ObjectNode.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-12-15 13:03:54 ERROR ObjectNode.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-12-15 13:03:54 ERROR ObjectNode.logErrorHeader(129) - OS: Linux
+2018-12-15 14:53:31 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-15 14:53:31 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-15 14:53:31 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-15 14:53:31 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-15 14:53:31 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 14:53:31 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 14:53:32 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-15 14:53:32 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-15 14:53:32 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-15 14:53:32 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-15 14:53:32 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-15 14:53:32 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-15 14:53:32 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-15 14:53:32 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 14:53:33 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 14:53:34 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 14:53:34 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 14:53:36 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 14:53:36 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 14:53:38 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 14:53:41 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 14:53:41 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 14:53:43 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 14:53:43 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 14:54:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 14:55:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 14:56:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 14:57:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 14:58:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 14:59:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:00:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:01:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:02:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:03:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:04:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:05:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:06:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:07:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:08:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:09:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:10:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:11:17 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:11:18 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:11:18 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:11:19 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-15 15:11:19 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:11:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:12:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:13:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:14:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:15:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:16:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:17:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:18:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:19:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
+2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -20
