@@ -1,22 +1,23 @@
 package com.javarush.task.task20.task2020;
 
 import java.io.PrintStream;
+import java.io.Serializable;
 import java.util.logging.Logger;
 
 /* 
 Сериализация человека
 */
-public class Solution {
+public class Solution implements Serializable {
 
-    public static class Person {
+    public static class Person implements Serializable{
         String firstName;
         String lastName;
-        String fullName;
-        final String greeting;
+        transient String fullName;
+        transient final String greeting;
         String country;
         Sex sex;
-        PrintStream outputStream;
-        Logger logger;
+        transient PrintStream outputStream;
+        transient Logger logger;
 
         Person(String firstName, String lastName, String country, Sex sex) {
             this.firstName = firstName;

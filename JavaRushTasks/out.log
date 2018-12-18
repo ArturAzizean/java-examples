@@ -10048,3 +10048,862 @@ java.lang.AssertionError
 2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
 2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -19
 2018-12-15 15:19:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < -20
+2018-12-15 15:20:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:20:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:21:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:21:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:21:46 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:21:46 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:21:48 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:21:48 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:21:48 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:22:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:23:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:24:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:25:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:26:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:27:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:28:33 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:29:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:30:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:31:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:31:43 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:31:44 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:31:44 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:31:45 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-15 15:31:45 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:31:53 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:31:53 WARN  JavaRushUtil.getCurrentTask(70) - Ошибка получения ключа задачи.
+2018-12-15 15:31:53 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:32:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:33:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:34:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:35:20 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:35:21 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-15 15:35:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:35:44 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:35:44 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:35:46 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:35:46 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:35:46 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:35:51 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:35:51 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:35:53 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:35:53 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:35:53 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:36:00 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:36:00 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:36:02 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:36:02 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:36:03 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:36:26 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:36:26 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:36:28 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:36:28 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:36:28 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:36:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:36:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:37:18 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:37:18 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:37:20 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:37:20 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:37:21 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:37:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:38:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:39:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:40:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:41:14 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:41:14 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:41:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:42:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:43:31 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:43:31 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:43:32 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:43:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:43:33 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-15 15:43:33 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:44:32 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:49:59 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-15 15:49:59 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-15 15:49:59 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-15 15:49:59 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-15 15:49:59 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:49:59 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:50:00 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-15 15:50:00 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-15 15:50:00 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-15 15:50:00 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-15 15:50:00 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-15 15:50:00 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-15 15:50:00 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-15 15:50:02 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 15:50:02 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-15 15:50:02 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-15 15:50:05 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:50:05 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:50:07 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:50:07 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:50:08 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:50:09 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:50:09 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:50:14 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:50:14 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:50:17 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:50:17 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:51:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:51:30 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:51:30 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:51:30 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-12-15 15:51:30 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 15:51:30 WARN  TaskCompleted.run(66) - Задача "Запрети сериализацию класса SubSolution используя NotSerializableException." уже решена
+2018-12-15 15:51:41 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:51:41 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:51:42 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:51:42 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:51:43 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:51:52 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:51:52 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:51:54 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-15 15:51:54 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-15 15:51:54 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-15 15:52:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:53:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:54:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:55:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:56:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:57:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:58:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 15:59:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:00:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:01:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:02:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:02:14 ERROR PluginManager.error(115) - null
+java.lang.AssertionError
+	at javafx.embed.swing.SwingDnD$DnDTransferable.getTransferDataFlavors(SwingDnD.java:384)
+	at sun.awt.dnd.SunDropTargetContextPeer.getTransferDataFlavors(SunDropTargetContextPeer.java:192)
+	at sun.awt.datatransfer.TransferableProxy.getTransferDataFlavors(TransferableProxy.java:65)
+	at java.awt.dnd.DropTargetContext$TransferableProxy.getTransferDataFlavors(DropTargetContext.java:344)
+	at javafx.embed.swing.CachingTransferable.updateData(CachingTransferable.java:76)
+	at javafx.embed.swing.SwingDragSource.updateContents(SwingDragSource.java:52)
+	at javafx.embed.swing.SwingDnD$3.dragOver(SwingDnD.java:171)
+	at java.awt.dnd.DropTarget.dragOver(DropTarget.java:382)
+	at sun.awt.dnd.SunDropTargetContextPeer.processMotionMessage(SunDropTargetContextPeer.java:475)
+	at sun.awt.X11.XDropTargetContextPeer.processMotionMessage(XDropTargetContextPeer.java:178)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchMotionEvent(SunDropTargetContextPeer.java:824)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:770)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48)
+	at java.awt.Component.dispatchEventImpl(Component.java:4758)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4600)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:718)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(120) - IntelliJ IDEA 2018.2.4  Build #IC-182.4505.22
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(129) - OS: Linux
+2018-12-15 16:02:14 ERROR PluginManager.logErrorHeader(135) - Last Action: TaskValidator
+2018-12-15 16:03:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:04:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:05:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:06:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:07:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:08:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:09:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:10:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:11:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:12:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:13:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:14:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:15:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:16:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:17:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:18:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:19:01 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:20:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:21:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:22:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:23:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:24:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:25:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:26:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:27:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:28:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:28:15 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:29:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:30:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:31:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:32:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:33:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:33:41 WARN  Codota.warn(81) - Failed to query completions 
+com.intellij.openapi.progress.ProcessCanceledException
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.throwIfCanceled(AbstractProgressIndicatorBase.java:144)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.checkCanceled(AbstractProgressIndicatorBase.java:135)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorExBase.checkCanceled(AbstractProgressIndicatorExBase.java:103)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.doCheckCanceled(CoreProgressManager.java:120)
+	at com.intellij.openapi.progress.ProgressManager.checkCanceled(ProgressManager.java:208)
+	at com.intellij.psi.stubs.LightStubBuilder.buildStubTree(LightStubBuilder.java:92)
+	at com.intellij.psi.stubs.LightStubBuilder.buildStubTree(LightStubBuilder.java:66)
+	at com.intellij.psi.stubs.StubTreeBuilder.buildStubTree(StubTreeBuilder.java:84)
+	at com.intellij.psi.stubs.StubUpdatingIndex$3.lambda$map$0(StubUpdatingIndex.java:232)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.psi.stubs.StubUpdatingIndex$3.map(StubUpdatingIndex.java:214)
+	at com.intellij.psi.stubs.StubUpdatingIndex$3.map(StubUpdatingIndex.java:197)
+	at com.intellij.util.indexing.impl.MapReduceIndex.mapInput(MapReduceIndex.java:273)
+	at com.intellij.util.indexing.VfsAwareMapReduceIndex.calculateUpdateData(VfsAwareMapReduceIndex.java:97)
+	at com.intellij.util.indexing.impl.MapReduceIndex.update(MapReduceIndex.java:213)
+	at com.intellij.util.indexing.FileBasedIndexImpl.lambda$indexUnsavedDocument$19(FileBasedIndexImpl.java:1371)
+	at com.intellij.openapi.fileTypes.impl.FileTypeManagerImpl.freezeFileTypeTemporarilyIn(FileTypeManagerImpl.java:519)
+	at com.intellij.util.indexing.FileBasedIndexImpl.indexUnsavedDocument(FileBasedIndexImpl.java:1344)
+	at com.intellij.util.indexing.FileBasedIndexImpl.access$3600(FileBasedIndexImpl.java:105)
+	at com.intellij.util.indexing.FileBasedIndexImpl$DocumentUpdateTask.doProcess(FileBasedIndexImpl.java:2337)
+	at com.intellij.util.indexing.FileBasedIndexImpl$DocumentUpdateTask.doProcess(FileBasedIndexImpl.java:2328)
+	at com.intellij.util.indexing.UpdateTask.process(UpdateTask.java:76)
+	at com.intellij.util.indexing.UpdateTask.processAll(UpdateTask.java:46)
+	at com.intellij.util.indexing.FileBasedIndexImpl.lambda$indexUnsavedDocuments$18(FileBasedIndexImpl.java:1252)
+	at com.intellij.util.indexing.FileBasedIndexImpl.runUpdate(FileBasedIndexImpl.java:1420)
+	at com.intellij.util.indexing.FileBasedIndexImpl.indexUnsavedDocuments(FileBasedIndexImpl.java:1252)
+	at com.intellij.util.indexing.FileBasedIndexImpl.ensureUpToDate(FileBasedIndexImpl.java:741)
+	at com.intellij.util.indexing.FileBasedIndexImpl.ensureUpToDate(FileBasedIndexImpl.java:706)
+	at com.intellij.psi.stubs.StubIndexImpl.doProcessStubs(StubIndexImpl.java:336)
+	at com.intellij.psi.stubs.StubIndexImpl.processElements(StubIndexImpl.java:312)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:145)
+	at com.intellij.psi.stubs.StubIndex.getElements(StubIndex.java:134)
+	at org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex.get(KotlinFileFacadeClassByPackageIndex.kt:30)
+	at org.jetbrains.kotlin.idea.caches.resolve.IDEKotlinAsJavaSupport$getFacadeClassesInPackage$facadeFilesInPackage$1.invoke(IDEKotlinAsJavaSupport.kt:50)
+	at org.jetbrains.kotlin.idea.caches.resolve.IDEKotlinAsJavaSupport$getFacadeClassesInPackage$facadeFilesInPackage$1.invoke(IDEKotlinAsJavaSupport.kt:36)
+	at org.jetbrains.kotlin.idea.util.application.ApplicationUtilsKt$sam$com_intellij_openapi_util_Computable$0.compute(ApplicationUtils.kt)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:941)
+	at org.jetbrains.kotlin.idea.util.application.ApplicationUtilsKt.runReadAction(ApplicationUtils.kt:27)
+	at org.jetbrains.kotlin.idea.caches.resolve.IDEKotlinAsJavaSupport.getFacadeClassesInPackage(IDEKotlinAsJavaSupport.kt:48)
+	at org.jetbrains.kotlin.asJava.finder.JavaElementFinder.getClasses(JavaElementFinder.java:191)
+	at com.intellij.psi.impl.JavaPsiFacadeImpl.getClasses(JavaPsiFacadeImpl.java:287)
+	at com.intellij.psi.impl.file.PsiPackageImpl.getClasses(PsiPackageImpl.java:157)
+	at com.intellij.psi.impl.file.PsiPackageImpl.processDeclarations(PsiPackageImpl.java:308)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processPackageDeclarations(PsiJavaFileBaseImpl.java:478)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processCurrentPackage(PsiJavaFileBaseImpl.java:392)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarationsNoGuess(PsiJavaFileBaseImpl.java:328)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.access$200(PsiJavaFileBaseImpl.java:54)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl$MyCacheBuilder.compute(PsiJavaFileBaseImpl.java:589)
+	at com.intellij.psi.impl.PsiCachedValueImpl.doCompute(PsiCachedValueImpl.java:49)
+	at com.intellij.util.CachedValueBase.getValueWithLock(CachedValueBase.java:222)
+	at com.intellij.psi.impl.PsiCachedValue.getValueWithLock(PsiCachedValue.java:60)
+	at com.intellij.psi.impl.PsiCachedValueImpl.getValue(PsiCachedValueImpl.java:38)
+	at com.intellij.psi.impl.source.PsiJavaFileBaseImpl.processDeclarations(PsiJavaFileBaseImpl.java:308)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:69)
+	at com.intellij.psi.scope.util.PsiScopesUtil.treeWalkUp(PsiScopesUtil.java:51)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:218)
+	at com.intellij.psi.scope.util.PsiScopesUtil.resolveAndWalk(PsiScopesUtil.java:149)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.resolve(PsiJavaCodeReferenceElementImpl.java:501)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.access$100(PsiJavaCodeReferenceElementImpl.java:47)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:383)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl$OurGenericsResolver.resolve(PsiJavaCodeReferenceElementImpl.java:375)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.lambda$resolveWithCaching$1(ResolveCache.java:203)
+	at com.intellij.openapi.util.RecursionManager$2.doPreventingRecursion(RecursionManager.java:99)
+	at com.intellij.psi.impl.source.resolve.ResolveCache.resolveWithCaching(ResolveCache.java:202)
+	at com.intellij.psi.impl.PsiImplUtil.multiResolveImpl(PsiImplUtil.java:724)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.getCanonicalText(PsiJavaCodeReferenceElementImpl.java:296)
+	at com.intellij.psi.impl.source.PsiJavaCodeReferenceElementImpl.getCanonicalText(PsiJavaCodeReferenceElementImpl.java:287)
+	at com.intellij.psi.impl.source.PsiClassReferenceType.getText(PsiClassReferenceType.java:257)
+	at com.intellij.psi.impl.source.PsiClassReferenceType.getCanonicalText(PsiClassReferenceType.java:243)
+	at com.intellij.psi.PsiClassType$Stub.getCanonicalText(PsiClassType.java:356)
+	at com.codota.intellij.lean.psi.PsiUtils.populateExtendsAndImplementsListRecursively(PsiUtils.java:185)
+	at com.codota.intellij.lean.psi.PsiUtils.insertExtendsAndImplementsListIntoContext(PsiUtils.java:172)
+	at com.codota.intellij.lean.psi.PsiUtils.getInvocationContext(PsiUtils.java:92)
+	at com.codota.intellij.lean.psi.PsiUtils.getInvocationContext(PsiUtils.java:61)
+	at com.codota.intellij.lean.assistant.completion.local.LocalCompletionGetter.makeQuery(LocalCompletionGetter.java:111)
+	at com.codota.intellij.lean.assistant.completion.local.ExpressionsCompletionProvider.lambda$addCompletions$0(ExpressionsCompletionProvider.java:101)
+	at java.util.Optional.map(Optional.java:215)
+	at com.codota.intellij.lean.assistant.completion.local.ExpressionsCompletionProvider.addCompletions(ExpressionsCompletionProvider.java:87)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:34:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:35:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:35:03 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='ObjectOutputStream', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='O', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:35:04 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='ObjectOutputStream', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='OI', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:35:05 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='ObjectOutputStream', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='Oo', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:35:06 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='ObjectOutputStream', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='Oi', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:35:07 WARN  Codota.warn(81) - Failed to query new line completions. variables = [XRefItem{className='java.lang.String[]', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='ObjectOutputStream', methodName='null'}, XRefItem{className='Solution', methodName='null'}, XRefItem{className='Ois', methodName='null'}], fields = []
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletionsInner(CompletionGetterHelper.java:82)
+	at com.codota.intellij.lean.assistant.completion.CompletionGetterHelper.getCompletions(CompletionGetterHelper.java:108)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionGetter.getCompletions(NewLineCompletionGetter.java:40)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.lambda$addCompletions$1(NewLineCompletionProvider.java:57)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletion.executeNewLineAction(NewLineCompletion.java:62)
+	at com.codota.intellij.lean.assistant.completion.local.newline.NewLineCompletionProvider.addCompletions(NewLineCompletionProvider.java:48)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:36:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:37:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:37:01 WARN  Codota.warn(81) - Failed to query completions  for java.io.ObjectInputStream
+com.intellij.openapi.progress.ProcessCanceledException
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.throwIfCanceled(AbstractProgressIndicatorBase.java:144)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.checkCanceled(AbstractProgressIndicatorBase.java:135)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorExBase.checkCanceled(AbstractProgressIndicatorExBase.java:103)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.doCheckCanceled(CoreProgressManager.java:120)
+	at com.intellij.openapi.progress.ProgressManager.checkCanceled(ProgressManager.java:208)
+	at com.intellij.openapi.progress.ProgressIndicatorProvider.checkCanceled(ProgressIndicatorProvider.java:51)
+	at com.intellij.psi.impl.source.tree.CompositeElement.getPsi(CompositeElement.java:721)
+	at com.intellij.psi.impl.source.SourceTreeToPsiMap.treeElementToPsi(SourceTreeToPsiMap.java:30)
+	at com.intellij.psi.impl.source.tree.SharedImplUtil.getParent(SharedImplUtil.java:47)
+	at com.intellij.psi.impl.source.tree.LeafPsiElement.getParent(LeafPsiElement.java:77)
+	at com.intellij.psi.util.PsiTreeUtil.nextLeaf(PsiTreeUtil.java:1048)
+	at com.intellij.patterns.PsiElementPattern$7.accepts(PsiElementPattern.java:220)
+	at com.intellij.patterns.PsiElementPattern$7.accepts(PsiElementPattern.java:215)
+	at com.intellij.patterns.ObjectPattern.accepts(ObjectPattern.java:58)
+	at com.intellij.patterns.ObjectPattern.accepts(ObjectPattern.java:48)
+	at com.intellij.codeInsight.completion.JavaCompletionSorting.getExpectedTypesWithDfa(JavaCompletionSorting.java:103)
+	at com.intellij.codeInsight.completion.JavaCompletionSorting.addJavaSorting(JavaCompletionSorting.java:58)
+	at com.codota.intellij.lean.assistant.completion.local.BaseCompletionProvider.addCompletions(BaseCompletionProvider.java:111)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JShellCompletionContributor.fillCompletionVariants(JShellCompletionContributor.java:27)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-15 16:38:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:39:00 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-15 16:39:21 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-15 16:39:21 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-15 16:39:21 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-17 06:59:29 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-17 06:59:29 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-17 06:59:29 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-17 06:59:29 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-17 06:59:30 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 06:59:30 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 06:59:30 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-17 06:59:30 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-17 06:59:30 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-17 06:59:30 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-17 06:59:30 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-17 06:59:30 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-17 06:59:30 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-17 06:59:30 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-17 06:59:32 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-17 06:59:32 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-17 06:59:33 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-17 06:59:39 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 06:59:39 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 06:59:41 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 06:59:41 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 06:59:42 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 06:59:47 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 06:59:47 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 06:59:49 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 06:59:49 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:00:20 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 07:00:20 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 07:00:20 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-17 07:00:23 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-17 07:00:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:00:38 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 07:00:39 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-17 07:00:45 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-17 07:00:55 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-17 07:00:58 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2018-12-17 07:01:00 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:01:00 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:01:02 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:01:02 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:01:02 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 07:01:28 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:01:28 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:01:29 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:01:29 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:01:29 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-17 07:01:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:02:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:03:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:04:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:05:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:06:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:07:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:08:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:09:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:10:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:11:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:12:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:13:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:14:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:15:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:16:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:17:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:18:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:19:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:20:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:21:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:22:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:23:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:24:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:25:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:26:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:27:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:28:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:29:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:30:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:31:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:32:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:33:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:34:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:35:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:36:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:37:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:38:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:39:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:40:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:41:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:42:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:43:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:44:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:45:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:46:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:47:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:48:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:49:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:50:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:51:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:52:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:53:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:54:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:55:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:56:31 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-17 07:56:40 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:40 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:41 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:41 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:43 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:43 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:46 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:46 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:48 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:48 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:50 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:50 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:52 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:52 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:54 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:54 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:56 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:56 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:56:58 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:56:58 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:57:00 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:57:00 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:57:02 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-17 07:57:02 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-17 07:57:07 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-17 07:57:07 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-17 07:57:07 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-18 08:44:27 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-18 08:44:27 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-18 08:44:29 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-18 08:44:29 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-18 08:44:29 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-18 08:44:29 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-18 08:44:29 INFO  Codota.info(71) - AuthTokenHandler: you are validating a token that is not in NEW_TOKEN state, are you sure you know what you're doing?
+2018-12-18 08:44:30 INFO  Codota.info(71) - AuthTokenHandler: [Token Valid] Setting token
+2018-12-18 08:45:29 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-18 08:45:43 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:45:43 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:45:44 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:45:44 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:45:45 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-18 08:45:47 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:45:47 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:45:49 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:45:49 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:45:52 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:45:52 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:46:11 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-18 08:46:11 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-18 08:46:14 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-18 08:46:17 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-18 08:46:27 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2018-12-18 08:46:29 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-18 08:46:31 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:46:31 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:46:33 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:46:33 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:46:33 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-18 08:46:35 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:46:35 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:46:37 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:46:37 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:46:54 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-18 08:46:54 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-18 08:46:59 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2018-12-18 08:47:03 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:47:03 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:47:04 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:47:04 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:47:04 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-18 08:47:06 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:47:06 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:47:08 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-18 08:47:08 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-18 08:47:29 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-18 08:47:29 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
